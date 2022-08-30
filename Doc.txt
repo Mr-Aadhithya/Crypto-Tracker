@@ -1,0 +1,13 @@
+## PROJECT:
+
+Simple Live Crypto Tracker Using python
+
+## Requirements
+
+COINMARKETCAP API
+
+COINMARKETCAP DOCUMENTATION : https://coinmarketcap.com/api/documentation/v1/
+
+
+
+
