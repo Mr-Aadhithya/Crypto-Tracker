@@ -3,7 +3,7 @@ from wsgiref import headers
 import requests
 
 headers ={
-    'X-CMC_PRO_API_KEY' : 'd6f394d4-3dc2-4d3d-9293-25f39c5693be',
+    'X-CMC_PRO_API_KEY' : 'd6f394d4-3dc2-4d3d-9293-25f39c5693be', #apikey from coinmarketcap
     'Accepts' : 'application/json'
 
 }
